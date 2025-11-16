@@ -3,7 +3,7 @@ This is the project for power bi dashboard data analyzing using power bi
 
 Things I learned from this projets:
  1.Time Intelligence function- Build date table separately:
- 2. Learned to reate the filters, charts, Navigation to different dashboard, and gain some business knowledge.
+ 2. Learned to create the filters, charts, Navigation to different dashboard, and gain some business knowledge.
  -------For using the time intelligence function the date must be continious form.
 
  Some of the importanct formula that i leared are
